@@ -1,0 +1,31 @@
+F:\HPT Works\WordTemplate\WordTemplate\bin\Debug\WordTemplate.exe.config
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\WordTemplate.exe.config
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\WordTemplate.exe
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\WordTemplate.pdb
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.exe
+C:\Users\Admin\Downloads\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.pdb
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\bin\Debug\WordTemplate.exe.config
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\bin\Debug\WordTemplate.exe
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\bin\Debug\WordTemplate.pdb
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\bin\Debug\DocumentFormat.OpenXml.dll
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\bin\Debug\Newtonsoft.Json.dll
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\bin\Debug\DocumentFormat.OpenXml.xml
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\bin\Debug\Newtonsoft.Json.xml
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\obj\Debug\WordTemplate.csprojResolveAssemblyReference.cache
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\obj\Debug\WordTemplate.exe
+F:\HPT Works\DevProject\WordTemplate\WordTemplate\obj\Debug\WordTemplate.pdb
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\WordTemplate.exe.config
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\WordTemplate.exe
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\WordTemplate.pdb
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\DocumentFormat.OpenXml.dll
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\Newtonsoft.Json.dll
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\DocumentFormat.OpenXml.xml
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\bin\Debug\Newtonsoft.Json.xml
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.csprojAssemblyReference.cache
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.csproj.CoreCompileInputs.cache
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.csproj.CopyComplete
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.exe
+D:\MIRIKI\1. STUDY\Internship HPT 7-2018\hpt-dev-project_062018\WordTemplate\WordTemplate\obj\Debug\WordTemplate.pdb
